@@ -24,3 +24,10 @@
     "nodemon": "^3.1.10"
   }
 }
+{
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
+
